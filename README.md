@@ -52,7 +52,7 @@ The project evaluates both **Machine Learning** and **Deep Learning** approaches
 | **Linear Regression** | 3.894 | 3.960 | -122.505 | Simple linear relationship baseline |
 | **Random Forest Regressor** | 0.329 | 0.425 | -0.422 | Ensemble-based tree model |
 | **Support Vector Regressor (SVR)** | 1.214 | 1.571 | -19.156 | Captures non-linear patterns |
-| **LSTM (Deep Learning)** | **0.214** | **0.258** | **0.96457** | Learns temporal dependencies effectively |
+| **LSTM (Deep Learning)** | **0.214** | **0.258** | **0.964** | Learns temporal dependencies effectively |
 
  **Result:**  
 The **LSTM model** achieved the best performance, demonstrating its ability to capture long-term temperature trends and sequential patterns in climate data.
